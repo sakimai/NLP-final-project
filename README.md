@@ -59,6 +59,15 @@ Open CiCo/CLCL/results.ipynb for visual comparisons of embedding-based metrics.
 - Prosody Analysis:
 Analyze the robustness of SignScore to prosodic variations using CiCo/CLCL/prosody.ipynb.
 
+## **Dataset Used**
+
+The **PHOENIX-14T** dataset was used for this project. It is a publicly available dataset designed for **German Sign Language (DGS)** recognition and translation tasks.
+
+You can download the PHOENIX-14T dataset from the following link:
+
+- [**PHOENIX-14T Dataset Download**](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)
+
+
 ## **Key Technologies**
 - Python 3.8
 - Jupyter Notebook
